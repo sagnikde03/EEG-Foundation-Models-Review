@@ -197,7 +197,7 @@
 
 ---
 
-> ###4. **BrainBERT: Self-supervised representation learning for intracranial recordings**
+> ### 4. **BrainBERT: Self-supervised representation learning for intracranial recordings**
 > **Venue:** *ICLR (2023)*  
 > **Authors:** Christopher Wang, Vighnesh Subramaniam, Adam Uri Yaari, Gabriel Kreiman, Boris Katz, Ignacio Cases, Andrei Barbu  
 > 🔗 [[Paper]](https://arxiv.org/abs/2302.14367) • [[Code]](https://github.com/czlwang/BrainBERT)
