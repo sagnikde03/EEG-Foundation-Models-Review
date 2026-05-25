@@ -7,7 +7,7 @@
 > ### 1. **EEG-AI: An agentic system for AI-assisted semi-automated EEG preprocessing and artifact removal**
 > **Venue:** *Journal of Neuroscience Methods (2026)*  
 > **Authors:** Abdelrahman Abdou, Martin Ivanov, Sarmed Shayaa, Alice Rueda, Fatemeh Gholamali Nezhad et al.  
-> 🔗 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0165027026000890?via%3Dihub) • [[Code]](https://nemar.org/dataexplorer/detail?dataset_id=ds006563) • [[HF]]
+> 🔗 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0165027026000890?via%3Dihub) • [[Code]](https://nemar.org/dataexplorer/detail?dataset_id=ds006563) 
 
 
 ---
