@@ -1,6 +1,14 @@
 # 🧠 EEG Foundation Models Review
 
 ---
+#  2026
+
+> ### 1. **EEG-AI: An agentic system for AI-assisted semi-automated EEG preprocessing and artifact removal**
+> **Venue:** *Journal of Neuroscience Methods (2026)*  
+> **Authors:** Abdelrahman Abdou et al.
+> 🔗 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0165027026000890?via%3Dihub) 
+
+---
 
 #  2025
 
