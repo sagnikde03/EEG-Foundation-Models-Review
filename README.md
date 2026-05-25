@@ -133,6 +133,12 @@
 
 ---
 
+> ### 18. **EEG Emotion Copilot: Optimizing lightweight LLMs for emotional EEG interpretation with assisted medical record generation**
+> **Authors:** Hongyu Chen, Weiming Zeng, Chengcheng Chen, Luhui Cai, Fei Wang, Yuhu Shi, Lei Wang, Wei Zhang, Yueyang Li, Hongjie Yan, Wai Ting Siok, Nizhuan Wang  
+> 🔗 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0893608025007282#da01) • [[Code]](https://github.com/NZWANG/EEG_Emotion_Copilot)
+
+---
+
 #  2024
 
 > ### 1. **EEGPT: Pretrained Transformer for Universal and Reliable Representation of EEG Signals**
